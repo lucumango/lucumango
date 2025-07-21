@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CS student from Peru 🇵🇪<br>📰 Currently blending data science & software engineering at my country’s leading newspaper.  <br>🕵️‍♀️ Future Data Analyst in Forensics & Data Integrity @ EY ✨  <br>📱 Learning Kotlin for Android — building a 🌐 site for a Quantum Computing NGO & a ✅ student monitoring app for teachers.  <br>🤖 Working on AI & ML papers, with a soft spot for applied AI.  <br>💼 Always open for new adventures & internships!<br><br>🌿 Outside the code: I do competitive programming 🏆, love to ✏️ draw, 🎤 sing, 🧘‍♀️ practice yoga & 📚 curl up with a good book.<br>
+🎓 CS student from Peru 🇵🇪<br>📰 Currently blending data science & software engineering at my country’s leading newspaper.  <br>🕵️‍♀️ Future Data Analyst in Forensics & Data Integrity @ EY ✨  <br>📱 Learning Kotlin for Android — building a 🌐 site for a Quantum Computing NGO & a ✅ student monitoring app for teachers.  <br>🤖 Working on AI & ML papers, with a soft spot for applied AI.  <br>💼 Always open for new adventures & internships!<br><br>🌿 Outside the code: I do competitive programming, love to draw, sing, practice yoga & curl up with a good book.<br>
 
 
 # 💻 Tech Stack:
