@@ -4,7 +4,7 @@
 🌿 Beyond coding, I love 🎨 drawing, 🪷 yoga & 🍳 trying new recipes.
 <br>
 
-📫 Reach me at: [daniellvargas@ieee.org](mailto:daniellvargas@ieee.org)
+📫 Reach me at: [daniellavargas@ieee.org](mailto:daniellavargas@ieee.org)
 <br>
 
 # 💻 Tech Stack:
