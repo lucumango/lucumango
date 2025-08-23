@@ -1,13 +1,10 @@
 # 💫 About Me:
 🎓 CS student from Peru 🇵🇪<br>
-📰 Currently blending data science & software engineering at my country’s leading newspaper.  <br>
-🕵️‍♀️ Incoming Data Analyst Intern in Forensics & Data Integrity @ EY ✨  <br>
-📱 Learning Kotlin for Android — building a site for a Quantum Computing NGO & a student monitoring app for teachers.  <br>
+🕵️‍♀️ Data Analyst Intern in Forensics & Data Integrity @ EY ✨  <br>
 🤖 Researching applied AI & data to make tech more human.<br>
-💼 Always open for new adventures & internships! 🌍<br>
 
 <br>🏆 I enjoy competitive programming and have represented my country internationally. <br>
-🌿 Beyond coding, I love 🎨 drawing, 🪷 yoga & 🍳 trying new recipes.<br>
+🌿 Beyond coding, I love 🎨 drawing & 🪷 yoga.<br>
 
 <br>📫 Reach me at: [daniellavargas@ieee.org](mailto:daniellavargas@ieee.org)<br>
 
