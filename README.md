@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 CS student from Peru 🇵🇪<br>
 🕵️‍♀️ Data Analyst Intern in Forensics & Data Integrity @ EY ✨  <br>
-🏆 I enjoy competitive programming! But Beyond coding, I love 🎨 drawing & 🪷 yoga.<br>
+🏆 I enjoy competitive programming! but beyond coding, I love 🎨 drawing & 🪷 yoga.<br>
 
 <br>📫 Reach me at: [daniellavargas@ieee.org](mailto:daniellavargas@ieee.org)<br>
 
