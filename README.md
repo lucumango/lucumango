@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 Senior CS student from Peru 🇵🇪<br>
-🤖 AI researcher in the Netherlands 🇳🇱<br>
-🎈 I love competitive programming! but beyond coding, I love touching grass, drawing and yoga.<br>
+🎓 Soon to be new grad 🇵🇪🇳🇱<br>
+🤖 I make computers smarter and go beep book click clack<br>
+🌿 Yes, I do touch grass occasionally.
 
 <br>📫 Reach me at: [daniellavargas@ieee.org](mailto:daniellavargas@ieee.org)<br>
 
