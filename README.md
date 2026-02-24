@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 Soon to be new grad 🇵🇪🇳🇱<br>
-🤖 I make computers smarter and go beep book click clack<br>
+🤖 I make computers smarter
+🤓 I make them go beep book click clack<br>
 🌿 Yes, I do touch grass occasionally.
 
 <br>📫 Reach me at: [daniellavargas@ieee.org](mailto:daniellavargas@ieee.org)<br>
