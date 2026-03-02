@@ -2,7 +2,6 @@
 🎓 Soon to be new grad 🇵🇪🇳🇱<br>
 🤖 I make computers smarter<br>
 🌿 Yes, I do touch grass occasionally.
-
 <br>📫 Reach me at: [daniellavargas@ieee.org](mailto:daniellavargas@ieee.org)<br>
 
 # 📊 GitHub Stats:
