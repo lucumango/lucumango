@@ -1,1 +1,1 @@
-![GitHub Stats](https://streak-stats.demolab.com?user=lucumango&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=lucumango&theme=gotham&hide_border=true)
