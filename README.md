@@ -1,1 +1,1 @@
-![GitHub Stats](https://streak-stats.demolab.com?user=lucumango&theme=gotham&hide_border=true)
+<img src="https://media.tenor.com/6VQEKeGv1kgAAAAi/stardust.gif" alt="Stardust Cookie" width="250">
